@@ -1,4 +1,4 @@
-This repository is a list of some of the public work I've done.
+This repository is a list of some of the public projects I've worked on.
 
 # Bugs / Exploits
 * [Information Leak in FreeBSD and OpenBSD kernels](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.07.10-bsd)
@@ -13,6 +13,7 @@ This repository is a list of some of the public work I've done.
 * [Two Denial of Service Bugs in macOS's workq_kernreturn syscall](https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2018.02.16-macos)
 
 # Blogs / Writeups
+* [DJI Privacy Analysis Validation](https://blog.grimm-co.com/2020/07/dji-privacy-analysis-validation.html)
 * [SOHO Device Exploitation - Netgear Case Study](https://blog.grimm-co.com/2020/06/soho-device-exploitation.html)
 * [Analyzing SUID Binaries - VMware Fusion Case Study](https://blog.grimm-co.com/2020/05/analyzing-suid-binaries.html)
 * [Analyzing the Linux Kernel in Userland with AFL and KLEE](https://blog.grimm-co.com/2020/05/analyzing-linux-kernel-in-userland-with.html)
