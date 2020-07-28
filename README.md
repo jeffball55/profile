@@ -22,6 +22,7 @@ This repository is a list of some of the public projects I've worked on.
 * [Heap overflow in the necp_client_action syscall](https://blog.grimm-co.com/2020/05/heap-overflow-in-necpclientaction.html)
 * [DEF CON 2017 Quals CTF - Reeses Revenge Writeup](https://github.com/jeffball55/ctf_writeups/tree/master/defcon_quals_2017/reeses)
 * [Boston Key Party 2017 - barewithme Writeup](https://github.com/jeffball55/ctf_writeups/tree/master/boston_key_party_2017/barewithme)
+* [PETS 2016 - SoK: Privacy on Mobile Devices – It’s Complicated](https://petsymposium.org/2016/files/papers/SoK__Privacy_on_Mobile_Devices_%E2%80%93_It%E2%80%99s_Complicated.pdf)
 * [POC||GTFO 0x8 - On Error Resume Next](https://github.com/jeffball55/on_error_resume_next)
 * Contributing Author to [Google Hacking for Penetration Testers, Volume 2](https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/1597491764)
 
