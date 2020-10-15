@@ -27,7 +27,7 @@ This repository is a list of some of the public projects I've worked on.
 * Contributing Author to [Google Hacking for Penetration Testers, Volume 2](https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/1597491764)
 
 # Talks
-* GRIMMCon0x2 - Embedded Device ROP Tips and Tricks - Netgear ([presentation materials](https://github.com/jeffball55/grimmcon2_netgear_rop))
+* [GRIMMCon0x2 - Embedded Device ROP Tips and Tricks - Netgear](https://www.youtube.com/watch?v=33vjLZrTc-U) ([presentation materials](https://github.com/jeffball55/grimmcon2_netgear_rop))
 * [GRIMMCon - Analyzing SUID Binaries - VMWare Fusion](https://www.youtube.com/watch?v=L4tB8Ck1ed0)
 * [BSidesCHS - An Introduction to macOS Kernel Exploitation](https://www.youtube.com/watch?v=OYZyk2q5XJY) ([presentation materials](https://github.com/jeffball55/intro_to_xnu_exploitation))
 * MTEM: Pyrop: An Open-Source, Multi-Architecture ROP Compiler
