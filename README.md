@@ -1,6 +1,7 @@
 This repository is a list of some of the public projects I've worked on.
 
 # Bugs / Exploits
+* [RCE and DoS in the NITRO NITF parsing library](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.01.29-nitro)
 * [Information Leak in FreeBSD and OpenBSD kernels](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.07.10-bsd)
 * [Unauthenticated RCE Exploit for 79 Netgear Devices](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.06.15-netgear)
 * [Denial of Service in iOS Safari](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.06.02-iOS-safari)
