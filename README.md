@@ -1,6 +1,7 @@
 This repository is a list of some of the public projects I've worked on.
 
 # Bugs / Exploits
+* [RHEL Kernel Exploit](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.12-linux-iscsi)
 * [RCE and DoS in the NITRO NITF parsing library](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.01.29-nitro)
 * [Information Leak in FreeBSD and OpenBSD kernels](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.07.10-bsd)
 * [Unauthenticated RCE Exploit for 79 Netgear Devices](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.06.15-netgear)
@@ -14,6 +15,7 @@ This repository is a list of some of the public projects I've worked on.
 * [Two Denial of Service Bugs in macOS's workq_kernreturn syscall](https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2018.02.16-macos)
 
 # Blogs / Writeups
+* [New Old Bugs in the Linux Kernel](https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html)
 * [DJI Privacy Analysis Validation](https://blog.grimm-co.com/2020/07/dji-privacy-analysis-validation.html) ([code](https://github.com/grimm-co/dji-go-4))
 * [SOHO Device Exploitation - Netgear Case Study](https://blog.grimm-co.com/2020/06/soho-device-exploitation.html)
 * [Analyzing SUID Binaries - VMware Fusion Case Study](https://blog.grimm-co.com/2020/05/analyzing-suid-binaries.html)
