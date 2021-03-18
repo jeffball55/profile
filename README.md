@@ -1,6 +1,7 @@
 This repository is a list of some of the public projects I've worked on.
 
 # Bugs / Exploits
+* [Denial of Service in macOS's necp_client_action syscall (again)](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.18-ios-macos)
 * [RHEL Kernel Exploit](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.12-linux-iscsi)
 * [RCE and DoS in the NITRO NITF parsing library](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.01.29-nitro)
 * [Information Leak in FreeBSD and OpenBSD kernels](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.07.10-bsd)
