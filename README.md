@@ -1,11 +1,12 @@
 This repository is a list of some of the public projects I've worked on.
 
 # Bugs / Exploits
+* [Netgear MITM RCE Exploit](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.09.21-netgear-circle)
 * [Denial of Service in macOS's necp_client_action syscall (again)](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.18-ios-macos)
-* [RHEL Kernel Exploit](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.12-linux-iscsi)
+* [RHEL Kernel Exploit](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.12-linux-iscsi) ([Nominated for a Pwnie Award](https://pwnies.com/new-old-bugs-in-linux-kernel/))
 * [RCE and DoS in the NITRO NITF parsing library](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.01.29-nitro)
 * [Information Leak in FreeBSD and OpenBSD kernels](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.07.10-bsd)
-* [Unauthenticated RCE Exploit for 79 Netgear Devices](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.06.15-netgear)
+* [Unauthenticated RCE Exploit for 79 Netgear Devices](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.06.15-netgear) ([Nominated for a Pwnie Award](https://pwnies.com/netgear-router-roundup/))
 * [Denial of Service in iOS Safari](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.06.02-iOS-safari)
 * [LPE Exploit for VMware Fusion](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.03.17-vmware-fusion) and [Bypass for the Fix](https://twitter.com/jeffball55/status/1242530508053110785)
 * [Denial of Service in Excel](https://github.com/grimm-co/NotQuite0DayFriday/tree/master/2020.03.07-excel)
@@ -16,7 +17,8 @@ This repository is a list of some of the public projects I've worked on.
 * [Two Denial of Service Bugs in macOS's workq_kernreturn syscall](https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2018.02.16-macos)
 
 # Blogs / Writeups
-* [New Old Bugs in the Linux Kernel](https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html)
+* [Mama Always Told Me Not to Trust Strangers without Certificates](https://blog.grimm-co.com/2021/09/mama-always-told-me-not-to-trust.html)
+* [New Old Bugs in the Linux Kernel](https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html) 
 * [DJI Privacy Analysis Validation](https://blog.grimm-co.com/2020/07/dji-privacy-analysis-validation.html) ([code](https://github.com/grimm-co/dji-go-4))
 * [SOHO Device Exploitation - Netgear Case Study](https://blog.grimm-co.com/2020/06/soho-device-exploitation.html)
 * [Analyzing SUID Binaries - VMware Fusion Case Study](https://blog.grimm-co.com/2020/05/analyzing-suid-binaries.html)
