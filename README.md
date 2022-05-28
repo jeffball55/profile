@@ -1,7 +1,8 @@
 This repository is a list of some of the public projects I've worked on.
 
 # Bugs / Exploits
-* [Netgear RCE in UPnP Daemon](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.11.16-netgear-upnp)
+* [Post-auth Netgear RCE in UPnP Daemon](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2022.04.15-netgear-emulate/netgear_upnpd_firmware)
+* [Pre-auth Netgear RCE in UPnP Daemon](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.11.16-netgear-upnp)
 * [Netgear MITM RCE Exploit](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.09.21-netgear-circle)
 * [Denial of Service in macOS's necp_client_action syscall (again)](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.18-ios-macos)
 * [RHEL Kernel Exploit](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2021.03.12-linux-iscsi) ([Nominated for a Pwnie Award](https://pwnies.com/new-old-bugs-in-linux-kernel/))
@@ -18,6 +19,7 @@ This repository is a list of some of the public projects I've worked on.
 * [Two Denial of Service Bugs in macOS's workq_kernreturn syscall](https://github.com/grimm-co/NotQuite0DayFriday/blob/master/2018.02.16-macos)
 
 # Blogs / Writeups
+* [No Hardware, No Problem: Emulation and Exploitation](https://blog.grimm-co.com/2022/04/no-hardware-no-problem-emulation-and.html)
 * [Seamlessly Discovering Netgear Universal Plug-and-Pwn (UPnP) 0-days](https://blog.grimm-co.com/2021/11/seamlessly-discovering-netgear.html)
 * [Mama Always Told Me Not to Trust Strangers without Certificates](https://blog.grimm-co.com/2021/09/mama-always-told-me-not-to-trust.html)
 * [New Old Bugs in the Linux Kernel](https://blog.grimm-co.com/2021/03/new-old-bugs-in-linux-kernel.html) 
