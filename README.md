@@ -56,3 +56,4 @@ This repository is a list of some of the public projects I've worked on.
 * [SetRegTime - Registry Timestamp Modifier](https://github.com/grimm-co/SetRegTime)
 * [String Converter for Bad Byte Avoidance](https://github.com/jeffball55/string_converter)
 * [Overwrite MBR tools for PCDC Red Teaming](https://github.com/jeffball55/overwrite_mbr)
+* [libnvram-faker](https://github.com/grimm-co/NotQuite0DayFriday/tree/trunk/2022.04.15-netgear-emulate/libnvram-faker)
